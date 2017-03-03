@@ -502,6 +502,78 @@ Interim accounting interval
 Enable stop accounting
     If enabled, YETI will send Stop-accounting packets to external RADIUS server.
 
+
+Routing. Customers Auths
+------------------------
+
+**Customers Auths** attributes:
+
+
+Routing. Rateplans
+------------------
+**Rateplans** attributes:
+
+Routing. Destinations
+---------------------
+**Destinations** attributes:
+
+
+Routing. Routing Groups
+-----------------------
+**Routing Groups** attributes:
+
+
+Routing. Dialpeers
+------------------
+**Dialpeers** attributes:
+
+Routing. Routing plans
+----------------------
+**Routing plans** attributes:
+
+
+Routing. Routing plan static routes
+-----------------------------------
+**Routing plan static routes** attributes:
+
+
+Routing. Routing plan LNP rules
+-------------------------------
+**Routing plan LNP rules** attributes:
+
+
+Routing. LNP Cache
+------------------
+
+Routing. Blacklists
+-------------------
+**Blacklists** attributes:
+
+
+Routing. Routing tags
+---------------------
+**Routing tags** attributes:
+
+
+Routing. Areas
+--------------
+**Areas** attributes:
+
+
+Routing. Area prefixes
+----------------------
+**Area prefixes** attributes:
+
+
+Routing. Routing tags detection
+-------------------------------
+
+Routing. Call simulation
+------------------------
+
+System. Pops
+------------
+
 System. Global configuration
 ----------------------------
 The page contains global parameters of YETI.
